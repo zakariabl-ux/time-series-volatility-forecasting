@@ -1,0 +1,10 @@
+{
+  "source": "Yahoo Finance chart endpoint",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTSE?period1=1473120000&period2=1788652800&interval=1d",
+  "downloaded_at_utc": "2026-09-06T16:40:45.694844+00:00",
+  "symbol": "^FTSE",
+  "requested_start": "2016-09-06",
+  "requested_end_exclusive": "2026-09-06",
+  "sha256": "e20e5f4d2144b1d40af1a52be69503fb5e14c4f4727591f7f177afedae17a960",
+  "series": "Price index closing level, not a total-return series"
+}

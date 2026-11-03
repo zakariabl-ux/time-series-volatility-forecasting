@@ -1,0 +1,13 @@
+index,period,metric,lower_loss_model,ewma_change_vs_moving_window_percent
+S&P 500,validation,mae,EWMA (0.94),-0.02193123965879007
+S&P 500,validation,rmse,EWMA (0.94),-0.8797307410965405
+S&P 500,test,mae,EWMA (0.94),-3.538701237759667
+S&P 500,test,rmse,EWMA (0.94),-2.4903269394965566
+CAC 40,validation,mae,EWMA (0.94),-2.403303653478417
+CAC 40,validation,rmse,EWMA (0.94),-2.57064841351341
+CAC 40,test,mae,EWMA (0.94),-1.0647102741629166
+CAC 40,test,rmse,EWMA (0.94),-3.259793475410011
+FTSE 100,validation,mae,EWMA (0.94),-2.3980267192597715
+FTSE 100,validation,rmse,EWMA (0.94),-2.5260815339103737
+FTSE 100,test,mae,EWMA (0.94),-2.6291805595237028
+FTSE 100,test,rmse,EWMA (0.94),-4.056104483513023

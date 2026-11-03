@@ -1,0 +1,10 @@
+index,period,target_rows,available_moving_window,available_ewma
+S&P 500,training,1592,1570,1570
+S&P 500,validation,502,502,502
+S&P 500,test,420,420,420
+CAC 40,training,1620,1598,1598
+CAC 40,validation,511,511,511
+CAC 40,test,428,428,428
+FTSE 100,training,1597,1553,1553
+FTSE 100,validation,505,505,505
+FTSE 100,test,424,424,424

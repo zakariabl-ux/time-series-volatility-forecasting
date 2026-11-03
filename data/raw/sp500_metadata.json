@@ -1,0 +1,10 @@
+{
+  "source": "Yahoo Finance chart endpoint",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=1473120000&period2=1788652800&interval=1d",
+  "downloaded_at_utc": "2026-09-06T03:45:03.855770+00:00",
+  "symbol": "^GSPC",
+  "requested_start": "2016-09-06",
+  "requested_end_exclusive": "2026-09-06",
+  "sha256": "820074a6c22c0ce672d516a2899f2cfaba46765897b4790da7a4c248cf0d0a21",
+  "series": "Price index closing level, not a total-return series"
+}

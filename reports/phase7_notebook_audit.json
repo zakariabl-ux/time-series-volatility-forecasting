@@ -1,0 +1,32 @@
+[
+  {
+    "notebook": "01_data_collection_and_cleaning.ipynb",
+    "code_cells": 14,
+    "status": "passed"
+  },
+  {
+    "notebook": "02_returns_and_volatility.ipynb",
+    "code_cells": 8,
+    "status": "passed"
+  },
+  {
+    "notebook": "03_exploratory_analysis.ipynb",
+    "code_cells": 7,
+    "status": "passed"
+  },
+  {
+    "notebook": "04_volatility_forecasting.ipynb",
+    "code_cells": 8,
+    "status": "passed"
+  },
+  {
+    "notebook": "05_forecast_evaluation.ipynb",
+    "code_cells": 7,
+    "status": "passed"
+  },
+  {
+    "notebook": "06_risk_analysis.ipynb",
+    "code_cells": 6,
+    "status": "passed"
+  }
+]

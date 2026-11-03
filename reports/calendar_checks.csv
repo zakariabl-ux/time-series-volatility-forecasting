@@ -1,0 +1,4 @@
+index_key,calendar,expected_sessions,observations,missing_sessions,unexpected_dates
+sp500,XNYS,2514,2514,0,0
+cac40,XPAR,2559,2559,0,0
+ftse100,XLON,2526,2525,1,0

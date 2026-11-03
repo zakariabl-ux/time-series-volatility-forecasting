@@ -1,0 +1,14 @@
+{
+  "config_sha256": "83898382acbf22902020a9d7d0d3e7284dae12c76016137d01bfd35521f1f463",
+  "inputs": {
+    "data/forecasts/sp500_forecasts.csv": "75a01a567d9c2e89089908d43f3b7fac9f830118a3c2fa25743a7413f187d862",
+    "data/processed/sp500_phase2.csv": "20f7be62fe17f92679691e179d4bff014881e76c0f21d83b7626e6aa84f6be31",
+    "data/forecasts/cac40_forecasts.csv": "c1a4749a36367b2fbd4810b51963c6ec1b68c60008f2b8c4ed57c67865bcb431",
+    "data/processed/cac40_phase2.csv": "3f9a637511ef5f46ad22538f0189dce6b56622dc67832c3dac10d1113945c849",
+    "data/forecasts/ftse100_forecasts.csv": "8e2f6e91f097d663399ad72ef985342e670f3e60776c10f8559db7ba84550dd8",
+    "data/processed/ftse100_phase2.csv": "2e544dfca91b74bebf91e76461b8ad9cb1cb067e5b1464378301c0e9105782fa"
+  },
+  "settings_changed": false,
+  "target": "Same-date squared daily log return; noisy variance proxy",
+  "scoring": "Common valid dates per index for both models; variance scale"
+}

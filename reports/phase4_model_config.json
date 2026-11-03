@@ -1,0 +1,16 @@
+{
+  "window_sessions": 21,
+  "ewma_decay": 0.94,
+  "selection": "Fixed educational choices; not optimized using validation or test losses",
+  "target": "Next trading-session variance under a zero conditional-mean approximation",
+  "training_end": "2022-12-31",
+  "validation_start": "2023-01-01",
+  "validation_end": "2024-12-31",
+  "test_start": "2025-01-01",
+  "test_end": "2026-09-04",
+  "missing_policy": "Reset on missing return; wait for 21 consecutive valid returns",
+  "ewma_seed": "Mean of first 21 consecutive squared returns after start/reset",
+  "units": "Squared decimal log returns",
+  "supervisor_agreement": "Not recorded; proposed protocol implemented at user request",
+  "prior_inspection": "Full-history charts/statistics viewed in earlier phases; later period is not wholly unseen"
+}

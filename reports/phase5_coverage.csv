@@ -1,0 +1,7 @@
+index,period,candidate_dates,scored_dates,excluded_dates
+S&P 500,validation,502,502,0
+S&P 500,test,420,420,0
+CAC 40,validation,511,511,0
+CAC 40,test,428,428,0
+FTSE 100,validation,505,505,0
+FTSE 100,test,424,424,0

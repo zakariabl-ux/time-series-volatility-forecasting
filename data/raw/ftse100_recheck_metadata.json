@@ -1,0 +1,7 @@
+{
+  "source": "Yahoo Finance",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFTSE?period1=1608508800&period2=1608768000&interval=1d",
+  "checked_at_utc": "2026-09-06T16:50:14.440095+00:00",
+  "sha256": "1185d574757f4ab45256e9f9e0c27865b081ccc2949a86e1c659e20e2004aeed",
+  "result": "2020-12-22 close is null; no price supplied or interpolated"
+}

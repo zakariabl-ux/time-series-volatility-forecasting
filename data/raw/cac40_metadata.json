@@ -1,0 +1,10 @@
+{
+  "source": "Yahoo Finance chart endpoint",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EFCHI?period1=1473120000&period2=1788652800&interval=1d",
+  "downloaded_at_utc": "2026-09-06T03:45:04.881193+00:00",
+  "symbol": "^FCHI",
+  "requested_start": "2016-09-06",
+  "requested_end_exclusive": "2026-09-06",
+  "sha256": "90fb30598c933812fb25983f1028fd053114e73a1f62a50bddfef7a8b055bf19",
+  "series": "Price index closing level, not a total-return series"
+}

@@ -1,0 +1,4 @@
+index,raw_rows,clean_rows,start,end,rejected_rows,exact_duplicates_removed,moves_over_10_percent_for_review,absent_weekdays_including_holidays
+S&P 500,2514,2514,2016-09-06,2026-09-04,0,0,1,95
+CAC 40,2560,2559,2016-09-06,2026-09-04,1,0,1,50
+FTSE 100,2526,2525,2016-09-06,2026-09-04,1,0,1,84
